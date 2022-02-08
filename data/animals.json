@@ -117,15 +117,6 @@
         "hungry"
       ],
       "id": "11"
-    },
-    {
-      "name": "Bee",
-      "species": "Insect",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "anxious"
-      ],
-      "id": "12"
     }
   ]
 }
